@@ -2,7 +2,8 @@
 
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/koneko/flexplayer)
 <br>
-flexplayer is an app that you can use to watch .mp4 videos (only tested on that) and scroll through your file system
+flexplayer is an app that you can use to watch .mp4 videos (only tested on that) and scroll through your file system <br>
+**NEW** I FINALY FIGURED OUT HOW TO PLAY .MKV FILES WITH AUDIO! quick note on that, you cant seek forwards or backwards (fine for my application) and if the file is long, speed will be slow, however, if anyone feels like adding a mode for it to transcode the file and then send it (allowing seeking and quick viewing), be my guest untill i do it
 
 ## setup
 
